@@ -4,7 +4,7 @@
  * Plugin Name:       Web Application Core
  * Plugin URI:        https://github.com/devuri/wpenv-core
  * Description:       Web Application Core provides `web_app_config` action and bootstrap file.
- * Version:           0.2.1
+ * Version:           0.2.3
  * Requires at least: 5.3.0
  * Requires PHP:      7.3.5
  * Author:            uriel
